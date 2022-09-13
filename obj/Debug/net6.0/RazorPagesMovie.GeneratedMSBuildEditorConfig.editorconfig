@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = /Users/dkKiStBe/Repositories/RazorPagesAlbums/
+build_property.ProjectDir = /Users/dkKiStBe/Repositories/RazorPagesMovie/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/dkKiStBe/Repositories/RazorPagesAlbums
+build_property.MSBuildProjectDirectory = /Users/dkKiStBe/Repositories/RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Error.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Index.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Movies/Create.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Movies/Delete.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Movies/Details.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Movies/Edit.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Movies/Index.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTW92aWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Privacy.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/_ViewImports.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/_ViewStart.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/dkKiStBe/Repositories/RazorPagesAlbums/Pages/Shared/_Layout.cshtml]
+[/Users/dkKiStBe/Repositories/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q80ilp85y9
