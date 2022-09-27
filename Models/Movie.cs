@@ -29,6 +29,10 @@ namespace RazorPagesMovie.Models
         [StringLength(5)]
         [Required]
         public string Rating { get; set; } = string.Empty;
+
+        [StringLength(60, MinimumLength = 3)]
+        [Required]
+        public string Artist { get; set; } = string.Empty;
     }
 }
 
