@@ -23,44 +23,45 @@ namespace RazorPagesMovie.Models
                 }
 
                 context.Movie.AddRange(
+                  
                     new Movie
                     {
-                        Title = "When Harry Met Sally",
-                        ReleaseDate = DateTime.Parse("1989-2-12"),
-                        Genre = "Romantic Comedy",
-                        Price = 7.99M,
-                        Rating = "R",
-                        Artist = "Brad Putt "
+                        Artist = "10cc",
+                        Title = "The Original Soundtrack",
+                        Genre = "Rock/Popular",
+                        Format = "Stereo",
+                        Label = "Mercury",
+                        CatNumber = "6310 500"
                     },
 
                     new Movie
                     {
-                        Title = "Ghostbusters ",
-                        ReleaseDate = DateTime.Parse("1984-3-13"),
-                        Genre = "Comedy",
-                        Price = 8.99M,
-                        Rating = "R",
-                        Artist = "Tobias Cruze"
+                        Artist = "10cc",
+                        Title = "Deceptive Bends",
+                        Genre = "Rock/Popular",
+                        Format = "Stereo",
+                        Label = "Mercury",
+                        CatNumber = "6310 502"
                     },
 
                     new Movie
                     {
-                        Title = "Ghostbusters 2",
-                        ReleaseDate = DateTime.Parse("1986-2-23"),
-                        Genre = "Comedy",
-                        Price = 9.99M,
-                        Rating = "R",
-                        Artist = "Clive Westwood"
+                        Artist = "10cc",
+                        Title = "How Dare You",
+                        Genre = "Rock/Popular",
+                        Format = "Stereo",
+                        Label = "Mercury",
+                        CatNumber = "MIP-1-9316"
                     },
 
-                    new Movie
+                      new Movie
                     {
-                        Title = "Rio Bravo",
-                        ReleaseDate = DateTime.Parse("1959-4-15"),
-                        Genre = "Western",
-                        Price = 3.99M,
-                        Rating = "R",
-                        Artist = "Gert Garbo"
+                        Artist = "10cc",
+                        Title = "Bloody Tourists",
+                        Genre = "Rock/Popular",
+                        Format = "Stereo",
+                        Label = "Polydor, Man Ken Records, Polydor",
+                        CatNumber = "PD-1-6161, 2480 477"
                     }
                 );
                 context.SaveChanges();
