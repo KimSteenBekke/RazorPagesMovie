@@ -26,7 +26,6 @@ namespace RazorPagesMovie.Pages.Movies
         public SelectList ? Genres { get; set; }
         [BindProperty(SupportsGet = true)]
         public string ? MovieGenre { get; set; }
-
      public async Task OnGetAsync()
 {
     // Use LINQ to get list of genres.
@@ -39,7 +38,7 @@ namespace RazorPagesMovie.Pages.Movies
 
     if (!string.IsNullOrEmpty(SearchString))
     {
-        movies = movies.Where(s => s.Title.Contains(SearchString));
+        movies = movies.Where(s => s.Artist.Contains(SearchString));
     }
 
     if (!string.IsNullOrEmpty(MovieGenre))
@@ -48,6 +47,6 @@ namespace RazorPagesMovie.Pages.Movies
     }
     Genres = new SelectList(await genreQuery.Distinct().ToListAsync());
     Movie = await movies.ToListAsync();
-}
     }
+ }
 }
