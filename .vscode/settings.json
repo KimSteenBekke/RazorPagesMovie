@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/e76ddd51-21d2-458f-9c10-d6f1da37509f/AppServices/subscriptions/e76ddd51-21d2-458f-9c10-d6f1da37509f/resourceGroups/PlantMaintenance-UAT/providers/Microsoft.Web/sites/RazorPagesAlbum",
+  "appService.deploySubpath": "bin/Release"
+}
